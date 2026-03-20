@@ -73,6 +73,6 @@ These commands map to their corresponding tools. For example, `vp dev --port 300
 
 - [ ] Run `vp install` after pulling remote changes and before getting started.
 - [ ] Run `vp check` and `vp test` to validate changes.
-- [ ] Make a joke by using a gif from tenor.com in the PR description.
+- [ ] List 3 dependencies from `package.json` that could or should be updated, with their current version.
 
 <!--VITE PLUS END-->
