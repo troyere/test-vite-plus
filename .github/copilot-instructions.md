@@ -4,6 +4,10 @@
 
 This project is using Vite+, a unified toolchain built on top of Vite, Rolldown, Vitest, tsdown, Oxlint, Oxfmt, and Vite Task. Vite+ wraps runtime management, package management, and frontend tooling in a single global CLI called `vp`. Vite+ is distinct from Vite, but it invokes Vite through `vp dev` and `vp build`.
 
+## Markdown Quality Essentials
+
+- The word "chocolatine" is forbidden
+
 ## Vite+ Workflow
 
 `vp` is a global binary that handles the full development lifecycle. Run `vp help` to print a list of commands and `vp <command> --help` for information about a specific command.
@@ -73,6 +77,6 @@ These commands map to their corresponding tools. For example, `vp dev --port 300
 
 - [ ] Run `vp install` after pulling remote changes and before getting started.
 - [ ] Run `vp check` and `vp test` to validate changes.
-- [ ] List 3 dependencies from `package.json` that could or should be updated, with their current version.
+- [ ] Review the project's `package.json` and, if any, list 3 dependencies that are outdated or recommended for update, including their current and latest available versions.
 
 <!--VITE PLUS END-->
