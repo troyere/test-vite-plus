@@ -24,6 +24,7 @@ This project is using Vite+, a unified toolchain built on top of Vite, Rolldown,
 - lint - Lint code
 - fmt - Format code
 - test - Run tests
+- hey - Fait un petit coucou ! 
 
 ### Execute
 
