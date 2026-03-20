@@ -2,6 +2,8 @@
 
 A starter for creating a Vite Plus project.
 
+Vive la chocolatine !
+
 ## Development
 
 - Install dependencies:
